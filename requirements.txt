@@ -1,2 +1,4 @@
-discord.py
+py-cord
 requests
+python-dotenv
+asyncio
