@@ -11,7 +11,16 @@ To AK https://twitter.com/_akhaliq for his contributions to the space.
 - Sends paper details (title, URL, and media) as an embedded message in Discord
 - Allows server administrators to set the channel for receiving daily papers using the `/setchannel` command
 
-## Installation
+## Inviting the Bot
+
+1. To invite the bot to your Discord, please use this link: https://dub.sh/DeforumDailyPapersInvite
+
+2. The bot will need to be added to the channel you wish to set it to with permissions to: `send messages, embed messages, send links, send attachments`.
+
+3. Set the channel the bot will send messages to with: `/setchannel`
+
+
+## Local Install
 
 1. Clone the repository:
 `https://github.com/blueangel1313/DeforumDailyPapers.git`
