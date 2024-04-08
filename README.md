@@ -2,6 +2,9 @@
 
 Deforum Daily Papers Bot is a Discord bot that fetches the latest AI research papers from the Hugging Face Papers API and sends them to designated channels in your Discord server.
 
+## Special Thanks
+To AK https://twitter.com/_akhaliq for his contributions to the space.
+
 ## Features
 
 - Automatically fetches the latest AI research papers every minute
